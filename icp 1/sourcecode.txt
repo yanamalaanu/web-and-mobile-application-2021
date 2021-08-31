@@ -1,0 +1,9 @@
+<!DOCTYPE >
+<html>
+<head>
+<title>web</title>
+</head>
+<body>
+<h1> hello web application>
+</body>
+</html>
